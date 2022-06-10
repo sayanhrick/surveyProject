@@ -1,0 +1,24 @@
+.text-center, .description_text-center{
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration-color: aliceblue;
+    color: white;
+}
+
+
+.form-group{
+    display: block;
+    text-align: center;
+    
+}
+
+form{
+    background-color: burlywood;
+    padding-inline-start: 0rem;
+    padding: auto;
+    margin: 35px 100px 35px 100px;
+
+}
+body{
+    background-color: brown;
+}
